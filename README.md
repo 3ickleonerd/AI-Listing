@@ -14,3 +14,5 @@ List of AI tools, services and models
 
 ## Music
 - [Suno](https://suno.com/)
+- [Riffusion](https://www.riffusion.com/)
+- [Udio](https://www.udio.com/)
